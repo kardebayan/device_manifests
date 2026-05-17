@@ -2,7 +2,7 @@
 <manifest>
     <!-- Remotes -->
     <remote name="sai" fetch="https://github.com/Saikrishna1504" />
-    <remote name="bb" fetch="https://bitbucket.org/Saikrishna1504" />
+    <remote name="bb" fetch="https://gitea.com/Saikrishna1504" />
 
     <!-- Device / Kernel -->
     <project path="device/redmi/begonia" name="device_redmi_begonia" remote="sai" revision="axion" />
